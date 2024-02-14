@@ -20,7 +20,7 @@ use fedimint_mint_client::{
 use fedimint_prediction_markets_client::PredictionMarketsClientInit;
 use fedimint_wallet_client::WalletClientInit;
 use futures::StreamExt;
-use leptos::warn;
+use leptos::logging::warn;
 use lightning_invoice::{Bolt11Invoice, Bolt11InvoiceDescription};
 use rand::thread_rng;
 use serde::{Deserialize, Serialize};
