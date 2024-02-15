@@ -23,11 +23,11 @@ A payout control is a keypair that allows users to propose payouts for a market.
 ### New Market Tab
 ![](./assets/new_market1.png)
 
-This tab allows users to create new markets. Above is an example market representing the NFL Super Bowl. Market terms and operation is discussed more in the [view market tab](#view-market-tab) section.
+This tab allows users to create new markets. Above is an example market representing the NFL Super Bowl. Market terms are discussed more in the [view market tab](#view-market-tab) section. In this example, my client has complete control over payout.
 
 ![](./assets/new_market2.png)
 
-Above shows an example of a new market with a threshold payout. 2 of the 3 payout controls (self, alice, and bob) must agree on the payout before it occurs.
+Above shows an example of a new market with a threshold payout. 2 of the 3 payout controls must agree on the payout before it occurs.
 
 ### View Market Tab
 ![](./assets/view_market1.png)
