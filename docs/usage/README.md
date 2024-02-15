@@ -61,3 +61,9 @@ The next section of the market page has an outcome selector. This decides which 
 
 The last section of the market page gives you the ability to create new orders as well as view your created orders statuses. A general summary of your market position is also shown. 
 
+### Notes
+
+Currently, These actions are only performed when entering the Prediction Markets tab:
+* Payouts on orders are scanned for
+* Bitcoin balance on orders is moved to your main balance
+* Payout control fee balances are moved to your main balance
