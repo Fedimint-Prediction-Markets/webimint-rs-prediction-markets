@@ -45,7 +45,7 @@ Above is what is shown first when entering a market page.
 * ***Current open contracts***: The number of contracts open on the market.
 * ***Cumulative agreeing weight required for payout***: How much payout control weight must agree for a payout to occur.
 
-The payout sections shows the status of the market payout. It also show a "propose a payout" section if your payout control has any weight in the market. The payout splits the contract price minus the payout control's fee per contract amongst the outcomes. Notice that one outcome does not necessarily have to recieve the entirety of the payout.
+The payout sections shows the status of the market payout. It also shows a "propose a payout" section if your payout control has any weight in the market. The payout splits the contract price minus the payout control's fee per contract amongst the outcomes. Notice that one outcome does not necessarily have to recieve the entirety of the payout.
 
 ![](./assets/view_market5.png)
 
