@@ -34,6 +34,8 @@ On entering the view market tab, a couple options are given for going to the mar
 
 ![](./assets/view_market2.png)
 
+Above is what is shown first when entering a market page.
+
 #### Definitions:
 * ***ID***: txid of the fedimint transaction that created the market
 * ***Contract price***: The amount required for the market to give out a contract of each outcome to buy orders of each outcome.
