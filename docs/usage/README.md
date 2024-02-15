@@ -38,8 +38,8 @@ Above is what is shown first when entering a market page.
 
 #### Definitions:
 * ***ID***: txid of the fedimint transaction that created the market
-* ***Contract price***: The amount required for the market to give out a contract of each outcome to buy orders of each outcome.
-* ***Payout control's fee per contract***: How of the contract price is given to the payout controls per open contract at payout.
+* ***Contract price***: The amount the market holds for each contract issued. [See explanation of prediction markets](#explanation-of-the-prediction-market-implemented)
+* ***Payout control's fee per contract***: Amount of the contract price that is given to the payout controls per open contract at payout.
 * ***Current open contracts***: The number of contracts open on the market.
 * ***Cumulative agreeing weight required for payout***: How much payout control weight must agree for a payout to occur.
 
@@ -53,9 +53,9 @@ Above is an example payout proposal and result.
 
 ![](./assets/view_market3.png)
 
-The next section of the market page has an outcome selector. This decides which price chart is shown in the candlestick chart just below as well as which outcome new orders are created on. The candelstick chart also has a selector for the time interval you would like to view.
+The next section of the market page has an outcome selector. This decides which price chart is shown in the candlestick chart just below as well as which outcome new orders are created on. The candlestick chart also has a selector for the time interval you would like to view.
 
 ![](./assets/view_market4.png)
 
-The last section of the market page gives you the ability to create new orders as well as view your created orders statuses and a general summary of your market position.
+The last section of the market page gives you the ability to create new orders as well as view your created orders statuses. A general summary of your market position is also shown. 
 
