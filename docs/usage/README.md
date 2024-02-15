@@ -9,7 +9,9 @@ For a contract to be destroyed, sell's prices from all outcomes must add up to t
 
 Contracts of each outcome can also be swapped locally in each outcomes order book. New orders will always pick the best price between creating/destroying vs swapping.
 
-To find the probability that a given outcome price represents, simply divide the price by the contract price. 
+To find the probability that a given outcome price represents, simply divide the price by the contract price.
+
+A market payout occurs once a proposed payout has a certain amount of weight defined by the market.
 
 ## UI Walkthrough
 
