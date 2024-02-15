@@ -892,7 +892,7 @@ pub fn AccountStats(
                     )}
                 </thead>
                 <tr>
-                    <th class="border p-1 text-sm">"Owned Contracts per Outcome"</th>
+                    <th class="border p-1 text-sm">"Owned Contracts of Outcome"</th>
                     {move || outcome_stats.get().into_iter()
                         .map(move |(owned_contracts, _)| {
                             view! {
